@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sass" : "sass ./assets/src/sass/style.scss ./assets/dist/css/style.css"
+    "sass": "sass ./assets/src/sass/style.scss ./assets/dist/css/style.css"
   },
   "author": "",
   "license": "ISC",
@@ -13,6 +13,7 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "bootstrap": "^4.6.2"
+    "bootstrap": "^4.6.2",
+    "fontawesome-free": "^1.0.4"
   }
 }
